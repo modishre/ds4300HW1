@@ -13,7 +13,7 @@ Downloading necessary libraries, pandas and pyMySQL
 
 
 Main 2 files we are working with twitterAPI and main.py
-TweetAPI is the middle file, DB backend and main.py 
+TweetAPI is the middle file that communicates with DB backend and the main.py (client-side)
 
 Couldnt upload tweets.csv
 
