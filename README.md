@@ -2,11 +2,8 @@
 
 ###
 
-First to do: 
+Load SQL script into workbench 
 Load SQL script into database to establish the connection first 
-Setting it up in workbench
-Twitter SQL script is in the DB folder 
-
 
 Downloading necessary libraries, pandas and pyMySQL
 - used pyMySQL - ran into issues with mySQLconector 
@@ -15,12 +12,11 @@ Downloading necessary libraries, pandas and pyMySQL
 Main 2 files we are working with twitterAPI and main.py
 TweetAPI is the middle file, DB backside and main.py is the fireside 
 
-Couldnt upload tweets.csv
 
-Run main.py file 
+- Run main.py file 
 
+User will be prompted password input
 
-Input password once you run main file 
-Afterwords its going to run print statements sequentially 
-Choose mannuly whcih ones to run or not
-Df - choose true or false
+Program will run print statement sequentially.
+
+- Getter functions have the option to return a dataframe or the raw twitter data (frame=False or Frame=True)
